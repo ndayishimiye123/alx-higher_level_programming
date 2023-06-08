@@ -1,4 +1,4 @@
-f __name__ == "__main__":
+f __name_ == "__main__":
     """Print the sum of 1 and 2."""
     from add_0 import add
 
